@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MOVIE</string>
+    <string name="title_popular">Popular Movie</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="favorite">Favorite Movie</string>
+    <string name="detail">Detail</string>
+    <string name="title_description">Description</string>
+    <string name="connection_failed">Internet not available, please check your connectivity</string>
+    <string name="share">share</string>
+    <string name="title_overview">Review</string>
+</resources>
